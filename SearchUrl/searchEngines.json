@@ -1,0 +1,21 @@
+{
+  "searchEngines": {
+    "searchConfigs": [
+      {
+        "name": "Google",
+        "url": "google.com",
+        "queryParam": "q",
+        "pageCountParam": "num"
+
+      },
+      {
+        "name": "Bing",
+        "url": "bing.com",
+        "queryParam": "q",
+        "pageCountParam": "count"
+      }
+    ]
+
+  }
+
+}
